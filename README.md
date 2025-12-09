@@ -1,3 +1,4 @@
+}
 # Hoja de Vida - Victor Manuel Rios Obando
 
 Este proyecto es una página web sencilla que presenta mi hoja de vida en formato digital.  
@@ -37,7 +38,7 @@ portafolio/ ├── index.html # Página principal con la hoja de vida ├─�
 
 ## 📸 Captura de pantalla
 
-![Historial de commits](vic2.png)
+![Historial de commits](vic3.png)
 
 
 ---
