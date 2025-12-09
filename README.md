@@ -35,7 +35,10 @@ portafolio/ ├── index.html # Página principal con la hoja de vida ├─�
 
 ## 📸 Captura de pantalla
 
-*(Agrega aquí una imagen de tu hoja de vida si lo deseas, por ejemplo `screenshot.png`)*
+## 📸 Captura de pantalla
+
+![Historial de commits](vic2.png)
+
 
 ---
 
